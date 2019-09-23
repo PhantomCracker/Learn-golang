@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f17e28b-5113-4810-9b4b-375dddb5643f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ShortDeclarationOperator/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level 1 exercises/ex1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level 1 exercises/ex2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level 1 exercises/ex3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level 1 exercises/ex4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level 1 exercises/ex5.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,5 +60,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.1080/1920.1080" />
   </component>
 </project>
